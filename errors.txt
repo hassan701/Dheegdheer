@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/maze.rpy", line 115: invalid syntax
+        else (sY==172 and sX==460):
+              ^
+    
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Aug 13 13:48:46 2023
